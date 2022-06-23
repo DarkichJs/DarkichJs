@@ -17,3 +17,4 @@ Dark ``discord.js`` Developer
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+[![Discord Presence](https://lanyard.cnrad.dev/api/479889258623139851)](https://discord.com/users/479889258623139851)
