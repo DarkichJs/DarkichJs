@@ -18,4 +18,4 @@ Dark ``discord.js`` Developer
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/479889258623139851?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/479889258623139851)
+![](https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg)
