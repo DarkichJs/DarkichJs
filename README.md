@@ -1,6 +1,6 @@
 # Darkich
 Dark ``discord.js`` Developer
-
+![](https://www.codewars.com/users/Anton%20Maclay/badges/large)
 ---
 
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> I’m currently learning programming languages such as: \
@@ -21,6 +21,6 @@ Dark ``discord.js`` Developer
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 ![](https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg)
-![](https://www.codewars.com/users/Anton%20Maclay/badges/large)
+
 
 
