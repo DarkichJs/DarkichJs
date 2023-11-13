@@ -21,3 +21,6 @@ Dark ``discord.js`` Developer
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 ![](https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://www.codewars.com/users/Anton%20Maclay/badges/small)
+
+
