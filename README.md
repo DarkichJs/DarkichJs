@@ -1,5 +1,5 @@
 # Darkich
-Dark ``discord.js`` Developer
+Dark ``Backend`` Developer
 
 ![](https://www.codewars.com/users/Anton%20Maclay/badges/large)
 ---
