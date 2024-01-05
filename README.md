@@ -19,7 +19,6 @@ Dark ``Backend`` Developer
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
-![](https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
