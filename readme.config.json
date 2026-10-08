@@ -1,0 +1,26 @@
+{
+  "user": "DarkichJs",
+  "host": "github",
+  "prompt": "darkich",
+  "tagline": "Backend Developer \u00b7 Building things that run",
+  "accent": "#a855f7",
+  "asciiColor": "source",
+  "loop": false,
+  "width": 900,
+  "links": [
+    {
+      "label": "Repositories",
+      "url": "https://github.com/DarkichJs?tab=repositories",
+      "color": "a855f7",
+      "logo": "github"
+    },
+    {
+      "label": "Codewars",
+      "url": "https://www.codewars.com/users/Anton%20Maclay",
+      "color": "b1361e",
+      "logo": "codewars"
+    }
+  ],
+  "format": "svg",
+  "header": false
+}
