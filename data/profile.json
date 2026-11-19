@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:48:13.352Z",
+  "generatedAt": "2026-11-19T11:32:00.974Z",
   "profile": {
     "login": "DarkichJs",
     "name": "Anton",
@@ -9,94 +9,6 @@
     "publicRepos": 8
   },
   "weeks": [
-    [
-      {
-        "date": "2025-11-02",
-        "count": 0,
-        "level": 0,
-        "weekday": 0
-      },
-      {
-        "date": "2025-11-03",
-        "count": 0,
-        "level": 0,
-        "weekday": 1
-      },
-      {
-        "date": "2025-11-04",
-        "count": 0,
-        "level": 0,
-        "weekday": 2
-      },
-      {
-        "date": "2025-11-05",
-        "count": 0,
-        "level": 0,
-        "weekday": 3
-      },
-      {
-        "date": "2025-11-06",
-        "count": 0,
-        "level": 0,
-        "weekday": 4
-      },
-      {
-        "date": "2025-11-07",
-        "count": 0,
-        "level": 0,
-        "weekday": 5
-      },
-      {
-        "date": "2025-11-08",
-        "count": 0,
-        "level": 0,
-        "weekday": 6
-      }
-    ],
-    [
-      {
-        "date": "2025-11-09",
-        "count": 0,
-        "level": 0,
-        "weekday": 0
-      },
-      {
-        "date": "2025-11-10",
-        "count": 0,
-        "level": 0,
-        "weekday": 1
-      },
-      {
-        "date": "2025-11-11",
-        "count": 0,
-        "level": 0,
-        "weekday": 2
-      },
-      {
-        "date": "2025-11-12",
-        "count": 0,
-        "level": 0,
-        "weekday": 3
-      },
-      {
-        "date": "2025-11-13",
-        "count": 0,
-        "level": 0,
-        "weekday": 4
-      },
-      {
-        "date": "2025-11-14",
-        "count": 0,
-        "level": 0,
-        "weekday": 5
-      },
-      {
-        "date": "2025-11-15",
-        "count": 1,
-        "level": 1,
-        "weekday": 6
-      }
-    ],
     [
       {
         "date": "2025-11-16",
@@ -207,7 +119,7 @@
       {
         "date": "2025-12-03",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 3
       },
       {
@@ -1407,7 +1319,7 @@
       {
         "date": "2026-06-12",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 5
       },
       {
@@ -1571,13 +1483,13 @@
       {
         "date": "2026-07-08",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 3
       },
       {
         "date": "2026-07-09",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 4
       },
       {
@@ -1615,7 +1527,7 @@
       {
         "date": "2026-07-15",
         "count": 24,
-        "level": 3,
+        "level": 2,
         "weekday": 3
       },
       {
@@ -1665,7 +1577,7 @@
       {
         "date": "2026-07-23",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 4
       },
       {
@@ -1747,7 +1659,7 @@
       {
         "date": "2026-08-05",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 3
       },
       {
@@ -1841,7 +1753,7 @@
       {
         "date": "2026-08-20",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 4
       },
       {
@@ -1967,13 +1879,13 @@
       {
         "date": "2026-09-09",
         "count": 36,
-        "level": 4,
+        "level": 3,
         "weekday": 3
       },
       {
         "date": "2026-09-10",
         "count": 34,
-        "level": 4,
+        "level": 3,
         "weekday": 4
       },
       {
@@ -2081,13 +1993,13 @@
       {
         "date": "2026-09-27",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 0
       },
       {
         "date": "2026-09-28",
         "count": 23,
-        "level": 3,
+        "level": 2,
         "weekday": 1
       },
       {
@@ -2125,7 +2037,7 @@
       {
         "date": "2026-10-04",
         "count": 12,
-        "level": 2,
+        "level": 1,
         "weekday": 0
       },
       {
@@ -2293,7 +2205,7 @@
       {
         "date": "2026-10-31",
         "count": 23,
-        "level": 3,
+        "level": 2,
         "weekday": 6
       }
     ],
@@ -2324,6 +2236,94 @@
       },
       {
         "date": "2026-11-05",
+        "count": 19,
+        "level": 2,
+        "weekday": 4
+      },
+      {
+        "date": "2026-11-06",
+        "count": 26,
+        "level": 3,
+        "weekday": 5
+      },
+      {
+        "date": "2026-11-07",
+        "count": 88,
+        "level": 4,
+        "weekday": 6
+      }
+    ],
+    [
+      {
+        "date": "2026-11-08",
+        "count": 31,
+        "level": 3,
+        "weekday": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 4,
+        "level": 1,
+        "weekday": 1
+      },
+      {
+        "date": "2026-11-10",
+        "count": 1,
+        "level": 1,
+        "weekday": 2
+      },
+      {
+        "date": "2026-11-11",
+        "count": 35,
+        "level": 3,
+        "weekday": 3
+      },
+      {
+        "date": "2026-11-12",
+        "count": 40,
+        "level": 4,
+        "weekday": 4
+      },
+      {
+        "date": "2026-11-13",
+        "count": 60,
+        "level": 4,
+        "weekday": 5
+      },
+      {
+        "date": "2026-11-14",
+        "count": 71,
+        "level": 4,
+        "weekday": 6
+      }
+    ],
+    [
+      {
+        "date": "2026-11-15",
+        "count": 12,
+        "level": 1,
+        "weekday": 0
+      },
+      {
+        "date": "2026-11-16",
+        "count": 0,
+        "level": 0,
+        "weekday": 1
+      },
+      {
+        "date": "2026-11-17",
+        "count": 4,
+        "level": 1,
+        "weekday": 2
+      },
+      {
+        "date": "2026-11-18",
+        "count": 0,
+        "level": 0,
+        "weekday": 3
+      },
+      {
+        "date": "2026-11-19",
         "count": 0,
         "level": 0,
         "weekday": 4
@@ -2331,27 +2331,22 @@
     ]
   ],
   "stats": {
-    "total": 2310,
-    "currentStreak": 114,
-    "currentRange": {
-      "start": "2026-07-14",
-      "end": "2026-11-04"
-    },
-    "longestStreak": 114,
+    "total": 2700,
+    "currentStreak": 0,
+    "currentRange": null,
+    "longestStreak": 125,
     "longestRange": {
       "start": "2026-07-14",
-      "end": "2026-11-04"
+      "end": "2026-11-15"
     },
-    "activeDays": 180,
+    "activeDays": 191,
     "totalDays": 369,
     "bestDay": {
-      "date": "2026-09-24",
-      "count": 48
+      "date": "2026-11-07",
+      "count": 88
     },
-    "avgPerActiveDay": 12.8,
+    "avgPerActiveDay": 14.1,
     "weekly": [
-      0,
-      1,
       0,
       0,
       13,
@@ -2402,7 +2397,9 @@
       104,
       56,
       163,
-      105
+      238,
+      242,
+      16
     ]
   }
 }
