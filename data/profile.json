@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:55:54.410Z",
+  "generatedAt": "2026-11-22T11:14:17.241Z",
   "profile": {
     "login": "DarkichJs",
     "name": "Anton",
@@ -9,50 +9,6 @@
     "publicRepos": 8
   },
   "weeks": [
-    [
-      {
-        "date": "2025-11-16",
-        "count": 0,
-        "level": 0,
-        "weekday": 0
-      },
-      {
-        "date": "2025-11-17",
-        "count": 0,
-        "level": 0,
-        "weekday": 1
-      },
-      {
-        "date": "2025-11-18",
-        "count": 0,
-        "level": 0,
-        "weekday": 2
-      },
-      {
-        "date": "2025-11-19",
-        "count": 0,
-        "level": 0,
-        "weekday": 3
-      },
-      {
-        "date": "2025-11-20",
-        "count": 0,
-        "level": 0,
-        "weekday": 4
-      },
-      {
-        "date": "2025-11-21",
-        "count": 0,
-        "level": 0,
-        "weekday": 5
-      },
-      {
-        "date": "2025-11-22",
-        "count": 0,
-        "level": 0,
-        "weekday": 6
-      }
-    ],
     [
       {
         "date": "2025-11-23",
@@ -2340,29 +2296,33 @@
         "level": 0,
         "weekday": 6
       }
+    ],
+    [
+      {
+        "date": "2026-11-22",
+        "count": 0,
+        "level": 0,
+        "weekday": 0
+      }
     ]
   ],
   "stats": {
     "total": 2711,
-    "currentStreak": 1,
-    "currentRange": {
-      "start": "2026-11-20",
-      "end": "2026-11-20"
-    },
+    "currentStreak": 0,
+    "currentRange": null,
     "longestStreak": 125,
     "longestRange": {
       "start": "2026-07-14",
       "end": "2026-11-15"
     },
     "activeDays": 192,
-    "totalDays": 371,
+    "totalDays": 365,
     "bestDay": {
       "date": "2026-11-07",
       "count": 88
     },
     "avgPerActiveDay": 14.1,
     "weekly": [
-      0,
       0,
       13,
       0,
@@ -2414,7 +2374,8 @@
       163,
       238,
       242,
-      27
+      27,
+      0
     ]
   }
 }
